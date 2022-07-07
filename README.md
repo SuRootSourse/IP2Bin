@@ -4,7 +4,7 @@ It is a tool written in Python that is used to convert IP to binary number and c
 
 - install steps
 ~~~
-git clone 
+git clone https://github.com/SuRootSourse/IP2Bin.git
 cd IP2Bin
 python3 IP2Bin
 ~~~
